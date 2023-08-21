@@ -1,27 +1,53 @@
-# React + TypeScript + Vite
+<h1 align="center">GitHub Finder</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+Projeto realizado em aula no YouTube pelo professor Matheus Battisti.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Expanding the ESLint configuration
+<br>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<p align="center">
+  <img alt="Perfil do usuário pesquisado" src=".github/search-github-user.png" width="100%">
+</p>
 
-- Configure the top-level `parserOptions` property like this:
+<p align="center">
+  <img alt="Usuário não encontrado" src=".github/search-github-nao-encontrado.png" width="100%">
+</p>
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## 🚀 Tecnologias
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML5
+- CSS Modules
+- ReactJS
+- TypeScript
+- Git e Github
+- Vite
+
+## 💻 Projeto
+
+Desenvolver um localizador de perfil de usuários do GitHub, consultando API do GitHub e retornando dados mais importantes do usuário.
+
+## 🔖 Layout
+
+- [Acesse aqui o projeto finalizado, online](https://github-finder.vercel.app/)
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Leandro Lima
