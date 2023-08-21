@@ -42,7 +42,7 @@ Desenvolver um localizador de perfil de usuários do GitHub, consultando API do 
 
 ## 🔖 Layout
 
-- [Acesse aqui o projeto finalizado, online](https://github-finder.vercel.app/)
+- [Acesse aqui o projeto finalizado, online](https://beta-github-finder.vercel.app/)
 
 ## :memo: Licença
 
